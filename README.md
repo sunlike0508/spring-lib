@@ -202,7 +202,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/dependency-versio
 
 스프링 부트가 관리하는 외부 라이브러리의 버전을 변경하는 일은 거의 없다. 하지만 아주 가끔 문제가 발생 하기도 하므로 알아두자.
 
-
+[다음 내용](https://github.com/sunlike0508/spring-autoconfig)
 
 
 
